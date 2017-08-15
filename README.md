@@ -36,4 +36,3 @@ Cashier#average_transaction_speed
   should give the average transaction speed for this cashier
 Cashier.fastest_cashier_on_average
   should return the cashier with the fastest average transaction speed
-# methods-and-relations-practice
